@@ -1,2 +1,1 @@
-# alx-backend-storage
-ALX Backend projects on Storage
+# ALX Backend projects on Storage
